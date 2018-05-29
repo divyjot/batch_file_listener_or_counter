@@ -1,4 +1,6 @@
 # batch_file_listener_or_counter
+Python based file listener
+
 This code traverses the directory given to it and counts the batch files.
 
 SO, What you have to do ?
